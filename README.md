@@ -2,6 +2,8 @@
 
 Omnisavant Doc Intelligence is a static React + TypeScript + Tailwind CSS app that runs a four-stage AI document processing pipeline entirely in the browser. It calls the Claude API directly with `fetch`, so there is no backend, server, or database.
 
+Live Demo: https://intern-a6r2n2kzz-josh070305s-projects.vercel.app
+
 ## Features
 
 - **Extract**: Convert pasted document text into structured JSON containing title, summary, key concepts, entities, and document structure.
